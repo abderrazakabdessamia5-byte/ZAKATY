@@ -1,0 +1,6 @@
+{
+  "name": "ZakaTy",
+  "description": "Free Online PDF & Image Tools Platform and Digital Business Profile Builder",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+html {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+html[dir="rtl"] {
+  font-family: 'Cairo', 'Inter', system-ui, -apple-system, sans-serif;
+}
